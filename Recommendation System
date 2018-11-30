@@ -1,4 +1,4 @@
-Outer Product-based Neural Collaborative Filtering
+[1]: Outer Product-based Neural Collaborative Filtering
 
 在通过外积得到的交互图之上，用卷积神经网络学习嵌入维度之间的高阶关系。
 在低水平的多层神经推荐模型上，使用外积在嵌入维度之间建立相关模型可以产生积极的影响。
