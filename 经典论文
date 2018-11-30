@@ -1,0 +1,29 @@
+经典论文往往是最容易理解的，所用方法为基础方法，通过追本溯源可以了解该研究领域的发展历程，对基础的夯实很重要。趁着这次写毕业论文，把这些经典论文好好整理一下。
+
+
+1. 基于近邻的方法（Neighborhood-based Methods）
+Sarwar, Badrul, et al. "Item-based collaborative filtering recommendation algorithms."
+
+Linden, Greg, Brent Smith, and Jeremy York. "Amazon. com recommendations: Item-to-item collaborative filtering." IEEE Internet computing 7.1 (2003): 76-80.
+
+2. Latent Factor Models (LFM)
+
+Matrix Factorization
+Koren Y, Bell R, Volinsky C. Matrix factorization techniques for recommender systems[J]. Computer, 2009 (8): 30-37.
+
+Probabilistic Matrix Factorization
+Mnih, Andriy, and Ruslan R. Salakhutdinov. "Probabilistic matrix factorization." Advances in neural information processing systems. 2008.
+
+Implicit Feedback Matrix Factorization
+Hu, Yifan, Yehuda Koren, and Chris Volinsky. "Collaborative filtering for implicit feedback datasets." Data Mining, 2008. ICDM'08. Eighth IEEE International
+Conference on. Ieee, 2008.(被评为 2017 IEEE ICDM 10-Year Highest-Impact Paper Award)
+Pan, Rong, et al. "One-class collaborative filtering." Data Mining, 2008. ICDM'08. Eighth IEEE International Conference on. IEEE, 2008.
+
+Bayesian Personalized Ranking (BPR)
+Rendle, Steffen, et al. "BPR: Bayesian personalized ranking from implicit feedback." Proceedings of the twenty-fifth conference on uncertainty in artificial intelligence. AUAI Press, 2009.
+
+Factorization Machine
+Rendle, Steffen. "Factorization machines." Data Mining (ICDM), 2010 IEEE 10th International Conference on. IEEE, 2010.
+Rendle, Steffen. "Factorization machines with libfm." ACM Transactions on Intelligent Systems and Technology (TIST) 3.3 (2012): 57.
+
+Reference: https://zhuanlan.zhihu.com/p/31841042
